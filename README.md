@@ -3,6 +3,9 @@ GET ALL DATA
 
 ![Alt text](image.png)
 
+GET BYID 4
+![Alt text](image-7.png)
+
 POST DATA
 
 ![Alt text](image-1.png)
